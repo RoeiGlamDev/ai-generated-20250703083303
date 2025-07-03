@@ -1,0 +1,15 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator application",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
